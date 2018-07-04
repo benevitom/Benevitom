@@ -1,3 +1,1 @@
-# BENEVITOM
-
-Soluções e Consultoria em Geofísica
+# Benevitom Soluções e Consultoria em Geofísica
